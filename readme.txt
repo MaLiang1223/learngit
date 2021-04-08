@@ -3,3 +3,4 @@ Git is free software
 Git have a mutable index called stage
 hello
 world
+hhhhhhhhhhhh
