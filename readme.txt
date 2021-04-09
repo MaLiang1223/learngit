@@ -4,3 +4,6 @@ Git have a mutable index called stage
 hello
 world
 hhhhhhhhhhhh
+bbbbbbbbbbbbbbb
+bbbbbbbbbbbbbb
+
